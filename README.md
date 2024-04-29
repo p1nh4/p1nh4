@@ -1,5 +1,6 @@
 ### Hi there 👋
-<script src="https://tryhackme.com/badge/2978813"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/p1nh4.png" alt="TryHackMe">
+
 <!--
 **p1nh4/p1nh4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
