@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<script src="https://tryhackme.com/badge/2978813"></script>
 <!--
 **p1nh4/p1nh4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
